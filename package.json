@@ -1,0 +1,16 @@
+{
+  "name": "electron-spawn-test",
+  "version": "0.0.1",
+  "description": "electron-spawn test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js parameter"
+  },
+  "author": "AaronNGray",
+  "license": "MIT",
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "electron-spawn": "^5.0.0",
+    "tape": "^4.9.2"
+  }
+}
